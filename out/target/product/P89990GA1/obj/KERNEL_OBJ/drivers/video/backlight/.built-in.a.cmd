@@ -1,0 +1,1 @@
+cmd_drivers/video/backlight/built-in.a :=  rm -f drivers/video/backlight/built-in.a; aarch64-linux-android-ar rcSTPD drivers/video/backlight/built-in.a drivers/video/backlight/backlight.o drivers/video/backlight/generic_bl.o drivers/video/backlight/sgm37604a_driver.o drivers/video/backlight/ocp2138.o

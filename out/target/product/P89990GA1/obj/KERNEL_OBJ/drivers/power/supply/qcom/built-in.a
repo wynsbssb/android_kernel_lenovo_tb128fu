@@ -1,0 +1,37 @@
+!<thin>
+//                                              242       `
+step-chg-jeita.o/
+battery.o/
+qpnp-smb5.o/
+smb5-lib.o/
+pmic-voter.o/
+storm-watch.o/
+schgm-flash.o/
+qpnp-qg.o/
+qg-util.o/
+qg-soc.o/
+qg-sdam.o/
+qg-battery-profile.o/
+qg-profile-lib.o/
+fg-alg.o/
+qpnp-smblite.o/
+smblite-lib.o/
+schgm-flashlite.o/
+
+/0              0           0     0     644     167472    `
+/18             0           0     0     644     288128    `
+/29             0           0     0     644     491656    `
+/42             0           0     0     644     740040    `
+/54             0           0     0     644     147168    `
+/68             0           0     0     644     11088     `
+/83             0           0     0     644     207656    `
+/98             0           0     0     644     720352    `
+/109            0           0     0     644     201976    `
+/120            0           0     0     644     235384    `
+/130            0           0     0     644     70168     `
+/141            0           0     0     644     207168    `
+/163            0           0     0     644     30696     `
+/181            0           0     0     644     199464    `
+/191            0           0     0     644     328024    `
+/207            0           0     0     644     416632    `
+/222            0           0     0     644     190856    `

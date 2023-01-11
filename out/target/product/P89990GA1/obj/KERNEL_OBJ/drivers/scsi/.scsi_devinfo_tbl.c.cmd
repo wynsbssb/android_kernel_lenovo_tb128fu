@@ -1,0 +1,1 @@
+cmd_drivers/scsi/scsi_devinfo_tbl.c := sed -n 's/.*define *BLIST_\([A-Z0-9_]*\) *.*/BLIST_FLAG_NAME(\1),/p' /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/include/scsi/scsi_devinfo.h > drivers/scsi/scsi_devinfo_tbl.c

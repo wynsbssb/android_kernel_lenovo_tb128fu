@@ -1,0 +1,1 @@
+cmd_kernel/torture.ko := aarch64-linux-android-ld -r  -EL  -maarch64linux -T /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/scripts/module-common.lds -T /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/arch/arm64/kernel/module.lds  --build-id  -o kernel/torture.ko kernel/torture.o kernel/torture.mod.o ;  true

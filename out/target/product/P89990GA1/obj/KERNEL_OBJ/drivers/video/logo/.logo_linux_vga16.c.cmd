@@ -1,0 +1,1 @@
+cmd_drivers/video/logo/logo_linux_vga16.c := scripts/pnmtologo -t vga16 -n logo_linux_vga16 -o drivers/video/logo/logo_linux_vga16.c /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/drivers/video/logo/logo_linux_vga16.ppm

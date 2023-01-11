@@ -1,0 +1,7 @@
+arch/arm64/boot/dts/qcom/.msm8994-angler-rev-101.dtb.dts.tmp: \
+  /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/arch/arm64/boot/dts/qcom/msm8994-angler-rev-101.dts \
+  /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/arch/arm64/boot/dts/qcom/msm8994.dtsi \
+  /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/arm-gic.h \
+  /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/irq.h \
+  /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/scripts/dtc/include-prefixes/dt-bindings/clock/qcom,gcc-msm8994.h \
+  /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/arch/arm64/boot/dts/qcom/msm8994-pins.dtsi

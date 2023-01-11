@@ -1,0 +1,61 @@
+!<thin>
+//                                              794       `
+reset/msm-poweroff.o/
+reset/xgene-reboot.o/
+reset/syscon-reboot.o/
+supply/power_supply_core.o/
+supply/power_supply_sysfs.o/
+supply/power_supply_leds.o/
+supply/bq27xxx_battery.o/
+supply/bq27xxx_battery_i2c.o/
+supply/qcom/step-chg-jeita.o/
+supply/qcom/battery.o/
+supply/qcom/qpnp-smb5.o/
+supply/qcom/smb5-lib.o/
+supply/qcom/pmic-voter.o/
+supply/qcom/storm-watch.o/
+supply/qcom/schgm-flash.o/
+supply/qcom/qpnp-qg.o/
+supply/qcom/qg-util.o/
+supply/qcom/qg-soc.o/
+supply/qcom/qg-sdam.o/
+supply/qcom/qg-battery-profile.o/
+supply/qcom/qg-profile-lib.o/
+supply/qcom/fg-alg.o/
+supply/qcom/qpnp-smblite.o/
+supply/qcom/smblite-lib.o/
+supply/qcom/schgm-flashlite.o/
+supply/wt_charger/wt6670f_hvdcp30.o/
+supply/wt_charger/bq2589x_charger.o/
+supply/wt_charger/sgm4151x_charger.o/
+supply/wt_charger/wt_chg.o/
+
+/0              0           0     0     644     214024    `
+/22             0           0     0     644     90568     `
+/44            /0           0     0     644     90936     `
+/67             0           0     0     644     249456    `
+/95             0           0     0     644     135880    `
+/124            0           0     0     644     94944     `
+/152            0           0     0     644     193336    `
+/178            0           0     0     644     121784    `
+/208            0           0     0     644     167472    `
+/238            0           0     0     644     288128    `
+/261            0           0     0     644     491656    `
+/286            0           0     0     644     740040    `
+/310            0           0     0     644     147168    `
+/336            0           0     0     644     11088     `
+/363            0           0     0     644     207656    `
+/390            0           0     0     644     720352    `
+/413            0           0     0     644     201976    `
+/436            0           0     0     644     235384    `
+/458            0           0     0     644     70168     `
+/481            0           0     0     644     207168    `
+/515            0           0     0     644     30696     `
+/545            0           0     0     644     199464    `
+/567            0           0     0     644     328024    `
+/595            0           0     0     644     416632    `
+/622            0           0     0     644     190856    `
+/653            0           0     0     644     267120    `
+/690            0           0     0     644     487464    `
+/727            0           0     0     644     296464    `
+/765            0           0     0     644     388760    `

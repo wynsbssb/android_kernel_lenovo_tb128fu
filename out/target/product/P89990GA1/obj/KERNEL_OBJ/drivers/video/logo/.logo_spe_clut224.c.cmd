@@ -1,0 +1,1 @@
+cmd_drivers/video/logo/logo_spe_clut224.c := scripts/pnmtologo -t clut224 -n logo_spe_clut224 -o drivers/video/logo/logo_spe_clut224.c /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/drivers/video/logo/logo_spe_clut224.ppm

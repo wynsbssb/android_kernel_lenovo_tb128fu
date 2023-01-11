@@ -1,0 +1,1 @@
+cmd_vmlinux := /bin/sh /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/scripts/link-vmlinux.sh aarch64-linux-android-ld  -EL  -maarch64linux --no-undefined -X -z norelro -shared -Bsymbolic -z notext  --no-apply-dynamic-relocs --fix-cortex-a53-843419  --build-id ;  true

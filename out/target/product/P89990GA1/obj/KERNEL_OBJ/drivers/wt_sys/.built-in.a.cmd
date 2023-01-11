@@ -1,0 +1,1 @@
+cmd_drivers/wt_sys/built-in.a :=  rm -f drivers/wt_sys/built-in.a; aarch64-linux-android-ar rcSTPD drivers/wt_sys/built-in.a drivers/wt_sys/wt_bootloader_log_save.o drivers/wt_sys/wt_boot_reason.o drivers/wt_sys/wt_system_monitor.o

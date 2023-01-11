@@ -1,0 +1,46 @@
+!<thin>
+//                                              392       `
+mem.o/
+random.o/
+ttyprintk.o/
+misc.o/
+hw_random/core.o/
+hw_random/msm_rng.o/
+adsprpc.o/
+adsprpc_compat.o/
+diag/diagchar_core.o/
+diag/diagchar_hdlc.o/
+diag/diagfwd.o/
+diag/diagfwd_peripheral.o/
+diag/diagfwd_socket.o/
+diag/diagfwd_rpmsg.o/
+diag/diag_mux.o/
+diag/diag_memorydevice.o/
+diag/diag_usb.o/
+diag/diagmem.o/
+diag/diagfwd_cntl.o/
+diag/diag_dci.o/
+diag/diag_masks.o/
+diag/diag_debugfs.o/
+/0              0           0     0     644     235552    `
+/7              0           0     0     644     669088    `
+/17             0           0     0     644     157168    `
+/30             0           0     0     644     161488    `
+/38             0           0     0     644     214224    `
+/56             0           0     0     644     213568    `
+/77             0           0     0     644     1037256   `
+/88             0           0     0     644     765408    `
+/106           /0           0     0     644     747392    `
+/128           /0           0     0     644     17016     `
+/150            0           0     0     644     219472    `
+/166            0           0     0     644     118160    `
+/193            0           0     0     644     399216    `
+/216           /0           0     0     644     223496    `
+/238            0           0     0     644     21208     `
+/255            0           0     0     644     96632     `
+/281            0           0     0     644     90288     `
+/298            0           0     0     644     105672    `
+/314            0           0     0     644     164272    `
+/335            0           0     0     644     252768    `
+/352            0           0     0     644     271272    `
+/371            0           0     0     644     178728    `

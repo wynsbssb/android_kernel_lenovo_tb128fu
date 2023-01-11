@@ -1,0 +1,1 @@
+cmd_drivers/rpmsg/built-in.a :=  rm -f drivers/rpmsg/built-in.a; aarch64-linux-android-ar rcSTPD drivers/rpmsg/built-in.a drivers/rpmsg/rpmsg_core.o drivers/rpmsg/rpmsg_char.o drivers/rpmsg/qcom_glink_rpm.o drivers/rpmsg/qcom_glink_native.o drivers/rpmsg/rpm-smd.o drivers/rpmsg/qcom_glink_smem.o

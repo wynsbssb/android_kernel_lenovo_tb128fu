@@ -1,0 +1,77 @@
+!<thin>
+//                                              1040      `
+of_touchscreen.o/
+st/fts.o/
+st/fts_gui.o/
+st/fts_driver_test.o/
+st/fts_aoi_event.o/
+st/fts_lib/ftsCompensation.o/
+st/fts_lib/ftsCrossCompile.o/
+st/fts_lib/ftsError.o/
+st/fts_lib/ftsFrame.o/
+st/fts_lib/ftsIO.o/
+st/fts_lib/ftsTest.o/
+st/fts_lib/ftsTime.o/
+st/fts_lib/ftsTool.o/
+st/fts_lib/ftsFlash.o/
+st/fts_lib/ftsGesture.o/
+synaptics_dsx/synaptics_dsx_i2c.o/
+synaptics_dsx/synaptics_dsx_core.o/
+synaptics_dsx/synaptics_dsx_rmi_dev.o/
+synaptics_dsx/synaptics_dsx_fw_update.o/
+synaptics_dsx/synaptics_dsx_test_reporting.o/
+synaptics_tcm/synaptics_tcm_i2c.o/
+synaptics_tcm/synaptics_tcm_core.o/
+synaptics_tcm/synaptics_tcm_touch.o/
+synaptics_tcm/synaptics_tcm_device.o/
+synaptics_tcm/synaptics_tcm_diagnostics.o/
+tp_openshort.o/
+hxchipset/himax_debug.o/
+hxchipset/himax_inspection.o/
+hxchipset/himax_ic_incell_core.o/
+hxchipset/himax_ic_HX83102.o/
+hxchipset/himax_common.o/
+hxchipset/himax_platform.o/
+NT36523W/nt36xxx.o/
+NT36523W/nt36xxx_fw_update.o/
+NT36523W/nt36xxx_ext_proc.o/
+NT36523W/nt36xxx_mp_ctrlram.o/
+NT36523W/nt36xxx_ext_sysfs.o/
+
+/0              0           0     0     644     156120    `
+/18             0           0     0     644     480512    `
+/28             0           0     0     644     1160      `
+/42             0           0     0     644     250488    `
+/64            /0           0     0     644     87752     `
+/84             0           0     0     644     49600     `
+/114            0           0     0     644     6888      `
+/144            0           0     0     644     220216    `
+/167            0           0     0     644     34208     `
+/190            0           0     0     644     237368    `
+/210            0           0     0     644     444600    `
+/232            0           0     0     644     11440     `
+/254            0           0     0     644     100672    `
+/276            0           0     0     644     245000    `
+/299            0           0     0     644     44936     `
+/324            0           0     0     644     222424    `
+/359            0           0     0     644     531928    `
+/395            0           0     0     644     275368    `
+/434            0           0     0     644     424888    `
+/475            0           0     0     644     456176    `
+/521            0           0     0     644     203688    `
+/556            0           0     0     644     518304    `
+/592            0           0     0     644     322648    `
+/629            0           0     0     644     219960    `
+/667            0           0     0     644     203224    `
+/710            0           0     0     644     145056    `
+/726            0           0     0     644     424936    `
+/751            0           0     0     644     323568    `
+/781            0           0     0     644     414496    `
+/815            0           0     0     644     222888    `
+/845            0           0     0     644     447304    `
+/871            0           0     0     644     276176    `
+/899            0           0     0     644     409008    `
+/919            0           0     0     644     175064    `
+/949            0           0     0     644     213704    `
+/978            0           0     0     644     457960    `
+/1009           0           0     0     644     136960    `

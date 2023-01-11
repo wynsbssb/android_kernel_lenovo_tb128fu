@@ -1,0 +1,2 @@
+kernel/lib/test_user_copy.ko
+kernel/lib/atomic64_test.ko

@@ -1,0 +1,17 @@
+kernel/drivers/power/supply/bq27xxx_battery.ko
+kernel/drivers/power/supply/bq27xxx_battery_i2c.ko
+kernel/drivers/power/supply/qcom/step-chg-jeita.ko
+kernel/drivers/power/supply/qcom/battery.ko
+kernel/drivers/power/supply/qcom/qpnp-smb5.ko
+kernel/drivers/power/supply/qcom/smb5-lib.ko
+kernel/drivers/power/supply/qcom/pmic-voter.ko
+kernel/drivers/power/supply/qcom/storm-watch.ko
+kernel/drivers/power/supply/qcom/schgm-flash.ko
+kernel/drivers/power/supply/qcom/step-chg-jeita.ko
+kernel/drivers/power/supply/qcom/battery.ko
+kernel/drivers/power/supply/qcom/qpnp-smblite.ko
+kernel/drivers/power/supply/qcom/smblite-lib.ko
+kernel/drivers/power/supply/qcom/pmic-voter.ko
+kernel/drivers/power/supply/qcom/storm-watch.ko
+kernel/drivers/power/supply/qcom/schgm-flashlite.ko
+kernel/drivers/power/supply/wt_charger/wt6670f_hvdcp30.ko

@@ -1,0 +1,94 @@
+!<thin>
+//                                              774       `
+kgsl.o/
+kgsl_trace.o/
+kgsl_drawobj.o/
+kgsl_ioctl.o/
+kgsl_sharedmem.o/
+kgsl_pwrctrl.o/
+kgsl_pwrscale.o/
+kgsl_mmu.o/
+kgsl_snapshot.o/
+kgsl_events.o/
+kgsl_gmu_core.o/
+kgsl_gmu.o/
+kgsl_rgmu.o/
+kgsl_hfi.o/
+kgsl_pool.o/
+kgsl_reclaim.o/
+kgsl_timeline.o/
+kgsl_iommu.o/
+kgsl_debugfs.o/
+kgsl_sync.o/
+kgsl_compat.o/
+adreno_ioctl.o/
+adreno_ringbuffer.o/
+adreno_drawctxt.o/
+adreno_dispatch.o/
+adreno_snapshot.o/
+adreno_coresight.o/
+adreno_trace.o/
+adreno_a3xx.o/
+adreno_a5xx.o/
+adreno_a6xx.o/
+adreno_a3xx_snapshot.o/
+adreno_a5xx_snapshot.o/
+adreno_a6xx_snapshot.o/
+adreno_a5xx_preempt.o/
+adreno_a6xx_preempt.o/
+adreno_a6xx_gmu.o/
+adreno_a6xx_rgmu.o/
+adreno_sysfs.o/
+adreno.o/
+adreno_cp_parser.o/
+adreno_perfcounter.o/
+adreno_iommu.o/
+adreno_debugfs.o/
+adreno_profile.o/
+adreno_compat.o/
+/0              0           0     0     644     998744    `
+/8              0           0     0     644     1073656   `
+/22             0           0     0     644     355800    `
+/38             0           0     0     644     177712    `
+/52             0           0     0     644     376840    `
+/70             0           0     0     644     509736    `
+/86            /0           0     0     644     283552    `
+/103            0           0     0     644     260968    `
+/115           /0           0     0     644     264160    `
+/132            0           0     0     644     245856    `
+/147           /0           0     0     644     226184    `
+/164            0           0     0     644     311328    `
+/176            0           0     0     644     220096    `
+/189            0           0     0     644     256888    `
+/201            0           0     0     644     259192    `
+/214            0           0     0     644     247624    `
+/230           /0           0     0     644     276480    `
+/247            0           0     0     644     413264    `
+/261            0           0     0     644     206456    `
+/277            0           0     0     644     245152    `
+/290            0           0     0     644     192760    `
+/305            0           0     0     644     212512    `
+/321            0           0     0     644     290184    `
+/342            0           0     0     644     259992    `
+/361            0           0     0     644     443432    `
+/380            0           0     0     644     281720    `
+/399            0           0     0     644     281216    `
+/419            0           0     0     644     571048    `
+/435            0           0     0     644     264648    `
+/450            0           0     0     644     539504    `
+/465            0           0     0     644     429888    `
+/480            0           0     0     644     204800    `
+/504            0           0     0     644     254472    `
+/528            0           0     0     644     339696    `
+/552            0           0     0     644     250688    `
+/575            0           0     0     644     260736    `
+/598            0           0     0     644     360152    `
+/617            0           0     0     644     235928    `
+/637            0           0     0     644     235816    `
+/653            0           0     0     644     874672    `
+/663            0           0     0     644     239600    `
+/683            0           0     0     644     310568    `
+/705            0           0     0     644     234408    `
+/721            0           0     0     644     236824    `
+/739            0           0     0     644     294120    `
+/757           /0           0     0     644     207840    `

@@ -1,0 +1,13 @@
+!<thin>
+//                                              100       `
+industrialio-core.o/
+industrialio-event.o/
+inkern.o/
+adc/qcom-spmi-adc5.o/
+adc/qcom-vadc-common.o/
+
+/0              0           0     0     644     343360    `
+/21             0           0     0     644     183360    `
+/43             0           0     0     644     153128    `
+/53             0           0     0     644     220728    `
+/75             0           0     0     644     57320     `

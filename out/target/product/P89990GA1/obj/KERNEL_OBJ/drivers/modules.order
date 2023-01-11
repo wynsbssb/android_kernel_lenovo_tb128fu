@@ -1,0 +1,7 @@
+kernel/drivers/video/backlight/lcd.ko
+kernel/drivers/char/rdbg.ko
+kernel/drivers/misc/lkdtm/lkdtm.ko
+kernel/drivers/media/platform/msm/dvb/adapter/mpq-adapter.ko
+kernel/drivers/media/platform/msm/dvb/demux/mpq-dmx-hw-plugin.ko
+kernel/drivers/media/platform/msm/dvb/adapter/mpq-adapter.ko
+kernel/drivers/media/platform/msm/dvb/demux/mpq-dmx-hw-plugin.ko

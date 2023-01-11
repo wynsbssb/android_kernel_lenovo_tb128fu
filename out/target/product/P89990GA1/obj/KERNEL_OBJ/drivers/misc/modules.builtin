@@ -1,0 +1,2 @@
+kernel/drivers/misc/qseecom.ko
+kernel/drivers/misc/fpr_FingerprintCard/fpc1020.ko

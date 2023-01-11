@@ -1,0 +1,1 @@
+cmd_drivers/staging/android/ion/msm/built-in.a :=  rm -f drivers/staging/android/ion/msm/built-in.a; aarch64-linux-android-ar rcSTPD drivers/staging/android/ion/msm/built-in.a drivers/staging/android/ion/msm/msm_ion_of.o

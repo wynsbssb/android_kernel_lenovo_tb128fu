@@ -1,0 +1,14 @@
+!<thin>
+//                                              108       `
+pinctrl-msm.o/
+pinctrl-spmi-gpio.o/
+pinctrl-spmi-mpp.o/
+pinctrl-bengal.o/
+pinctrl-khaje.o/
+pinctrl-scuba.o/
+/0              0           0     0     644     312048    `
+/15             0           0     0     644     259352    `
+/36             0           0     0     644     238792    `
+/56             0           0     0     644     243816    `
+/74            /0           0     0     644     244456    `
+/91            /0           0     0     644     251936    `

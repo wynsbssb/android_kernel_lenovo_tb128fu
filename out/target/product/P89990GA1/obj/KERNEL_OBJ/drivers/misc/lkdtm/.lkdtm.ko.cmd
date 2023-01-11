@@ -1,0 +1,1 @@
+cmd_drivers/misc/lkdtm/lkdtm.ko := aarch64-linux-android-ld -r  -EL  -maarch64linux -T /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/scripts/module-common.lds -T /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/arch/arm64/kernel/module.lds  --build-id  -o drivers/misc/lkdtm/lkdtm.ko drivers/misc/lkdtm/lkdtm.o drivers/misc/lkdtm/lkdtm.mod.o ;  true

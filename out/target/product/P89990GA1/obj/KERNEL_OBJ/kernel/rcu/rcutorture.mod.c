@@ -1,0 +1,165 @@
+#include <linux/module.h>
+#include <linux/build-salt.h>
+#include <linux/vermagic.h>
+#include <linux/compiler.h>
+
+BUILD_SALT;
+
+MODULE_INFO(vermagic, VERMAGIC_STRING);
+MODULE_INFO(name, KBUILD_MODNAME);
+
+__visible struct module __this_module
+__attribute__((section(".gnu.linkonce.this_module"))) = {
+	.name = KBUILD_MODNAME,
+	.init = init_module,
+#ifdef CONFIG_MODULE_UNLOAD
+	.exit = cleanup_module,
+#endif
+	.arch = MODULE_ARCH_INIT,
+};
+
+MODULE_INFO(intree, "Y");
+
+#ifdef CONFIG_RETPOLINE
+MODULE_INFO(retpoline, "Y");
+#endif
+
+static const struct modversion_info ____versions[]
+__used
+__attribute__((section("__versions"))) = {
+	{ 0x85780fba, "module_layout" },
+	{ 0xf6f16c56, "rcu_barrier_tasks" },
+	{ 0xb1bb9f9, "synchronize_rcu_tasks" },
+	{ 0x6a5fb566, "rcu_sched_force_quiescent_state" },
+	{ 0xb1acbcce, "rcu_barrier_sched" },
+	{ 0x84b42af1, "cond_synchronize_sched" },
+	{ 0x9482b4b3, "get_state_synchronize_sched" },
+	{ 0xc2cdbf1, "synchronize_sched" },
+	{ 0x84d205f1, "rcu_sched_get_gp_seq" },
+	{ 0xbdd2f42a, "rcu_bh_force_quiescent_state" },
+	{ 0xf499fdb2, "rcu_barrier_bh" },
+	{ 0xcfc68341, "synchronize_rcu_bh" },
+	{ 0x43dd9c66, "rcu_bh_get_gp_seq" },
+	{ 0x8924eb1e, "rcu_force_quiescent_state" },
+	{ 0x60a13e90, "rcu_barrier" },
+	{ 0x49e96999, "cond_synchronize_rcu" },
+	{ 0xf3808cb1, "get_state_synchronize_rcu" },
+	{ 0x86f6b99d, "synchronize_rcu_expedited" },
+	{ 0x6091797f, "synchronize_rcu" },
+	{ 0xe6e40502, "rcu_get_gp_seq" },
+	{ 0xa81bd484, "param_ops_charp" },
+	{ 0x6662f383, "param_ops_bool" },
+	{ 0x6b3d12cb, "param_ops_int" },
+	{ 0x4825e296, "__wake_up" },
+	{ 0x5e811e0e, "finish_wait" },
+	{ 0x1000e51, "schedule" },
+	{ 0xb8fb810a, "prepare_to_wait_event" },
+	{ 0xfe487975, "init_wait_entry" },
+	{ 0x6bcb6e07, "__might_sleep" },
+	{ 0xa9320d27, "ktime_get_seconds" },
+	{ 0x947c72f1, "mutex_trylock" },
+	{ 0x3cdafc47, "sched_setscheduler" },
+	{ 0x4f6a07fe, "show_rcu_gp_kthreads" },
+	{ 0x9874b554, "sched_show_task" },
+	{ 0x3e9619f5, "torture_onoff_stats" },
+	{ 0xd697e69a, "trace_hardirqs_on" },
+	{ 0xec3d2e1b, "trace_hardirqs_off" },
+	{ 0xc38259af, "__this_cpu_preempt_check" },
+	{ 0xaaa918c9, "ftrace_dump" },
+	{ 0xb0747ed2, "rcu_cpu_stall_suppress" },
+	{ 0x7944e0fc, "tracing_off" },
+	{ 0x2f60a697, "kmem_cache_alloc_trace" },
+	{ 0xfec7ac38, "kmalloc_caches" },
+	{ 0xc917e655, "debug_smp_processor_id" },
+	{ 0x959ec5f5, "call_rcu_tasks" },
+	{ 0x643e0ce5, "call_rcu_sched" },
+	{ 0x706c5a65, "preempt_count_sub" },
+	{ 0xf229424a, "preempt_count_add" },
+	{ 0x44487d30, "_cleanup_srcu_struct" },
+	{ 0xfbe6098d, "init_srcu_struct" },
+	{ 0x95da02f2, "srcu_torture_stats_print" },
+	{ 0xcae8a9d0, "srcu_barrier" },
+	{ 0x5c481344, "synchronize_srcu_expedited" },
+	{ 0x89d6b1e7, "synchronize_srcu" },
+	{ 0x8357226, "call_srcu" },
+	{ 0xefb878eb, "srcu_batches_completed" },
+	{ 0x224b17b0, "__srcu_read_unlock" },
+	{ 0x576b478d, "__srcu_read_lock" },
+	{ 0x3c3fce39, "__local_bh_enable_ip" },
+	{ 0x31b9195c, "__local_bh_disable_ip" },
+	{ 0xb58dcfa2, "synchronize_sched_expedited" },
+	{ 0x7e927f92, "call_rcu_bh" },
+	{ 0x1b2fca48, "torture_must_stop_irq" },
+	{ 0x28aa6a67, "call_rcu" },
+	{ 0x2469810f, "__rcu_read_unlock" },
+	{ 0x43b0c9c3, "preempt_schedule" },
+	{ 0x92db8f68, "do_trace_rcu_torture_read" },
+	{ 0xeae3dfd6, "__const_udelay" },
+	{ 0x8d522714, "__rcu_read_lock" },
+	{ 0x999e8297, "vfree" },
+	{ 0xd6ee688f, "vmalloc" },
+	{ 0x1304d1c5, "wake_up_process" },
+	{ 0xacf96edb, "kthread_bind" },
+	{ 0xa2bfb26d, "mutex_unlock" },
+	{ 0x3d77e8dc, "kthread_create_on_node" },
+	{ 0xea395766, "mutex_lock" },
+	{ 0xb3f7646e, "kthread_should_stop" },
+	{ 0x4c7529bd, "torture_shutdown_absorb" },
+	{ 0xf15e728e, "del_timer_sync" },
+	{ 0x72cd0f7f, "mod_timer" },
+	{ 0x79cf5987, "init_timer_key" },
+	{ 0xfe9089cb, "set_user_nice" },
+	{ 0xad27f361, "__warn_printk" },
+	{ 0x3cd61061, "_raw_spin_unlock_bh" },
+	{ 0xe1537255, "__list_del_entry_valid" },
+	{ 0x6927f281, "_raw_spin_lock_bh" },
+	{ 0x151f4898, "schedule_timeout_uninterruptible" },
+	{ 0x679d9e50, "torture_must_stop" },
+	{ 0x6364b2f0, "stutter_wait" },
+	{ 0x8f0748af, "rcu_expedite_gp" },
+	{ 0x5bdbac4e, "rcu_unexpedite_gp" },
+	{ 0x9e7d6bd0, "__udelay" },
+	{ 0x54496b4, "schedule_timeout_interruptible" },
+	{ 0x52665f8b, "torture_random" },
+	{ 0xf6d34fb5, "torture_kthread_stopping" },
+	{ 0xf4af35c2, "rcu_gp_is_normal" },
+	{ 0xc0a96e14, "rcu_gp_is_expedited" },
+	{ 0xf0fdf6cb, "__stack_chk_fail" },
+	{ 0x688e6a64, "torture_cleanup_end" },
+	{ 0x1be7d8be, "torture_onoff_failures" },
+	{ 0xc7a4425f, "__cpuhp_remove_state" },
+	{ 0x909e4832, "srcutorture_get_gp_data" },
+	{ 0x26ab1862, "rcutorture_get_gp_data" },
+	{ 0x37a0cba, "kfree" },
+	{ 0x994b4258, "_torture_stop_kthread" },
+	{ 0xc67a49d4, "torture_cleanup_begin" },
+	{ 0x8f678b07, "__stack_chk_guard" },
+	{ 0xe6989fd3, "torture_init_end" },
+	{ 0xa2a635bc, "__init_waitqueue_head" },
+	{ 0x6bdeda8f, "torture_onoff_init" },
+	{ 0xdbc5277a, "torture_shutdown_init" },
+	{ 0xcec2d88f, "__cpuhp_setup_state" },
+	{ 0x15ba50a6, "jiffies" },
+	{ 0x216de4e1, "rcu_get_gp_kthreads_prio" },
+	{ 0xe9ff1468, "torture_stutter_init" },
+	{ 0x8b0e1d2f, "torture_shuffle_init" },
+	{ 0xd2b09ce5, "__kmalloc" },
+	{ 0xcab0532b, "_torture_create_kthread" },
+	{ 0x7ecb001b, "__per_cpu_offset" },
+	{ 0x17de3d5, "nr_cpu_ids" },
+	{ 0xa1e0307f, "cpumask_next" },
+	{ 0x8e3f011a, "__cpu_possible_mask" },
+	{ 0x68f31cbd, "__list_add_valid" },
+	{ 0x9f46ced8, "__sw_hweight64" },
+	{ 0x16624d6e, "__cpu_online_mask" },
+	{ 0x7c32d0f0, "printk" },
+	{ 0xe2d5255a, "strcmp" },
+	{ 0x6c3ff11a, "torture_init_begin" },
+	{ 0x1fdc7df2, "_mcount" },
+};
+
+static const char __module_depends[]
+__used
+__attribute__((section(".modinfo"))) =
+"depends=torture";
+

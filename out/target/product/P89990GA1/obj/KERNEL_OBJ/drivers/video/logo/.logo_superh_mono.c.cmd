@@ -1,0 +1,1 @@
+cmd_drivers/video/logo/logo_superh_mono.c := scripts/pnmtologo -t mono -n logo_superh_mono -o drivers/video/logo/logo_superh_mono.c /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/drivers/video/logo/logo_superh_mono.pbm

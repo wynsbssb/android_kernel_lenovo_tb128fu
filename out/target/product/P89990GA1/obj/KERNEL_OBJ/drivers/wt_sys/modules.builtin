@@ -1,0 +1,3 @@
+kernel/drivers/wt_sys/wt_bootloader_log_save.ko
+kernel/drivers/wt_sys/wt_boot_reason.ko
+kernel/drivers/wt_sys/wt_system_monitor.ko

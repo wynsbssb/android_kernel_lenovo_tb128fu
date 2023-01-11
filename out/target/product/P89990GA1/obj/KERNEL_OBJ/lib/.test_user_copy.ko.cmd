@@ -1,0 +1,1 @@
+cmd_lib/test_user_copy.ko := aarch64-linux-android-ld -r  -EL  -maarch64linux -T /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/scripts/module-common.lds -T /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/arch/arm64/kernel/module.lds  --build-id  -o lib/test_user_copy.ko lib/test_user_copy.o lib/test_user_copy.mod.o ;  true

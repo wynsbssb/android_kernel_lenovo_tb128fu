@@ -1,0 +1,1 @@
+cmd_drivers/misc/lkdtm/lkdtm.o := aarch64-linux-android-ld  -EL  -maarch64linux    -r -o drivers/misc/lkdtm/lkdtm.o drivers/misc/lkdtm/core.o drivers/misc/lkdtm/bugs.o drivers/misc/lkdtm/heap.o drivers/misc/lkdtm/perms.o drivers/misc/lkdtm/refcount.o drivers/misc/lkdtm/rodata_objcopy.o drivers/misc/lkdtm/usercopy.o ; scripts/mod/modpost drivers/misc/lkdtm/lkdtm.o

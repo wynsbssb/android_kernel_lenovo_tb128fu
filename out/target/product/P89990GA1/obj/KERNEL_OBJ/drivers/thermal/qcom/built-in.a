@@ -1,0 +1,39 @@
+!<thin>
+//                                              320       `
+adc-tm.o/
+adc-tm-common.o/
+adc-tm5.o/
+adc-tm7.o/
+qti_virtual_sensor.o/
+thermal_sensor_service_v01.o/
+qmi_sensors.o/
+bcl_pmic5.o/
+bcl_soc.o/
+thermal_mitigation_device_service_v01.o/
+qmi_cooling.o/
+msm_lmh_dcvs.o/
+lmh_dbg.o/
+regulator_cdev.o/
+rpm_smd_cooling_device.o/
+cpu_isolate.o/
+lmh_cpu_vdd_cdev.o/
+cx_ipeak_cdev.o/
+
+/0              0           0     0     644     141248    `
+/10            /0           0     0     644     87416     `
+/27             0           0     0     644     189624    `
+/38             0           0     0     644     161792    `
+/49             0           0     0     644     56536     `
+/71             0           0     0     644     6456      `
+/101            0           0     0     644     271776    `
+/116            0           0     0     644     157160    `
+/129            0           0     0     644     139536    `
+/140            0           0     0     644     8408      `
+/181            0           0     0     644     200392    `
+/196            0           0     0     644     354960    `
+/212            0           0     0     644     187688    `
+/223            0           0     0     644     72352     `
+/241            0           0     0     644     72088     `
+/267            0           0     0     644     247440    `
+/282            0           0     0     644     116328    `
+/302           /0           0     0     644     126048    `

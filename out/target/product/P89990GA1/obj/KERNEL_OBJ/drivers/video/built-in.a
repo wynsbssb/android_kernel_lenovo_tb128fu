@@ -1,0 +1,33 @@
+!<thin>
+//                                              320       `
+hdmi.o/
+logo/logo.o/
+logo/logo_linux_clut224.o/
+backlight/backlight.o/
+backlight/generic_bl.o/
+backlight/sgm37604a_driver.o/
+backlight/ocp2138.o/
+fbdev/core/fb_cmdline.o/
+fbdev/core/fb_notify.o/
+fbdev/core/fbmem.o/
+fbdev/core/fbmon.o/
+fbdev/core/fbcmap.o/
+fbdev/core/fbsysfs.o/
+fbdev/core/modedb.o/
+fbdev/core/fbcvt.o/
+
+/0              0           0     0     644     105472    `
+/8              0           0     0     644     32960     `
+/21             0           0     0     644     10960     `
+/48             0           0     0     644     251352    `
+/71             0           0     0     644     177360    `
+/95             0           0     0     644     208904    `
+/125            0           0     0     644     186760    `
+/146            0           0     0     644     15360     `
+/171            0           0     0     644     142512    `
+/195            0           0     0     644     584416    `
+/215            0           0     0     644     168000    `
+/235            0           0     0     644     208808    `
+/256            0           0     0     644     201072    `
+/278            0           0     0     644     211056    `
+/299            0           0     0     644     19352     `

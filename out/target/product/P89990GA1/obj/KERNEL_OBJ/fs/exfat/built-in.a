@@ -1,0 +1,23 @@
+!<thin>
+//                                              146       `
+exfat_core.o/
+exfat_super.o/
+exfat_api.o/
+exfat_blkdev.o/
+exfat_cache.o/
+exfat_data.o/
+exfat_bitmap.o/
+exfat_nls.o/
+exfat_oal.o/
+exfat_upcase.o/
+
+/0              0           0     0     644     532584    `
+/14             0           0     0     644     488792    `
+/29             0           0     0     644     234424    `
+/42             0           0     0     644     220112    `
+/58             0           0     0     644     218288    `
+/73             0           0     0     644     171568    `
+/87             0           0     0     644     7024      `
+/103            0           0     0     644     201392    `
+/116            0           0     0     644     13144     `
+/129            0           0     0     644     8952      `

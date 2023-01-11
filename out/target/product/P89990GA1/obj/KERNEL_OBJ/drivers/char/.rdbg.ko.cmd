@@ -1,0 +1,1 @@
+cmd_drivers/char/rdbg.ko := aarch64-linux-android-ld -r  -EL  -maarch64linux -T /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/scripts/module-common.lds -T /home/chenyl6/oak-tb128-kernel/wifi/kernel-4.19.157/arch/arm64/kernel/module.lds  --build-id  -o drivers/char/rdbg.ko drivers/char/rdbg.o drivers/char/rdbg.mod.o ;  true

@@ -1,0 +1,1 @@
+cmd_drivers/crypto/qce/built-in.a :=  rm -f drivers/crypto/qce/built-in.a; aarch64-linux-android-ar rcSTPD drivers/crypto/qce/built-in.a drivers/crypto/qce/core.o drivers/crypto/qce/common.o drivers/crypto/qce/dma.o drivers/crypto/qce/sha.o drivers/crypto/qce/ablkcipher.o

@@ -1,0 +1,1 @@
+cmd_drivers/power/supply/wt_charger/built-in.a :=  rm -f drivers/power/supply/wt_charger/built-in.a; aarch64-linux-android-ar rcSTPD drivers/power/supply/wt_charger/built-in.a drivers/power/supply/wt_charger/wt6670f_hvdcp30.o drivers/power/supply/wt_charger/bq2589x_charger.o drivers/power/supply/wt_charger/sgm4151x_charger.o drivers/power/supply/wt_charger/wt_chg.o

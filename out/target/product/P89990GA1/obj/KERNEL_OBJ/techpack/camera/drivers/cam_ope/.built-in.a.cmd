@@ -1,0 +1,1 @@
+cmd_techpack/camera/drivers/cam_ope/built-in.a :=  rm -f techpack/camera/drivers/cam_ope/built-in.a; aarch64-linux-android-ar rcSTPD techpack/camera/drivers/cam_ope/built-in.a techpack/camera/drivers/cam_ope/ope_hw_mgr/built-in.a techpack/camera/drivers/cam_ope/cam_ope_subdev.o techpack/camera/drivers/cam_ope/cam_ope_context.o
